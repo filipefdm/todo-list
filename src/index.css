@@ -78,7 +78,7 @@
 
 .tasksContainer {
   width: 100%;
-  max-width: 46rem;
+  max-width: 48rem;
   height: 17.9375rem;
   margin: auto;
   margin-top: 4rem;
@@ -278,4 +278,15 @@
   border: solid white;
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
+}
+
+/* ============== RESPONSIVE ============== */
+@media (min-width: 375px) {
+  .inputContainer {
+    padding: 0 1rem;
+  }
+
+  .tasksContainer {
+    padding: 0 1rem;
+  }
 }
