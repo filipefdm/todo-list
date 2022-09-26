@@ -28,8 +28,10 @@
 
 Foram utilizadas as seguintes tecnologias e ferramentas:
 
-- [ReactJS](https://reactjs.org/)
+- [Vite](https://vitejs.dev)
 - [TypeScript](https://www.typescriptlang.org/)
+- CSS Modules
+- Local Storage
 
 ## Como executar?
 
